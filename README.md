@@ -18,5 +18,5 @@ https://github.com/wainshine/Chinese-Names-Corpus
 
 ## 脚本运行方法
 
-1 安装node
-2 运行cmd目录下的批处理程序
+- 1 安装node
+- 2 运行cmd目录下的批处理程序
