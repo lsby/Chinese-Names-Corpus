@@ -1,4 +1,4 @@
-# Chinese-Names-Corpus
+# gen_name
 
 ## 来源
 
